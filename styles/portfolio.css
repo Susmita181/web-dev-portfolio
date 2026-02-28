@@ -149,3 +149,9 @@ main section{
 .experience-description{
     color: #757575;
 }
+/*footer-style*/
+footer{
+    padding: 113px 225px;
+    display: flex;
+    gap: 80px;
+}
